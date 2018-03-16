@@ -1,17 +1,17 @@
 {
-  "name": "zenit_bot",
+  "name": "telebot",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "engines": {
-    "node": "8.10.0"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "description": ""
 }
