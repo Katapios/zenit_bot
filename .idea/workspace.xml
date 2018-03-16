@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59a9422e-7245-4bf6-96d3-82291d99d0f3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/adasd" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/images/adasd" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,21 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adasd" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/adasd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,16 +208,6 @@
               <item name="zenit_bot" type="b2602c69:ProjectViewProjectNode" />
               <item name="zenit_bot" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="zenit_bot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zenit_bot" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zenit_bot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zenit_bot" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -363,7 +343,7 @@
       <workItem from="1520791293971" duration="2285000" />
       <workItem from="1521212434011" duration="33000" />
       <workItem from="1521212560772" duration="224000" />
-      <workItem from="1521213089050" duration="127000" />
+      <workItem from="1521213089050" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="цкец">
       <created>1521212614779</created>
@@ -372,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521212614779</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1234213">
+      <created>1521213222046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521213222047</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6089000" />
+    <option name="totallyTimeSpent" value="6134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -418,7 +405,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="цкец" />
-    <option name="LAST_COMMIT_MESSAGE" value="цкец" />
+    <MESSAGE value="1234213" />
+    <option name="LAST_COMMIT_MESSAGE" value="1234213" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
